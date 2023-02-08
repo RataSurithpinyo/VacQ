@@ -1,3 +1,5 @@
+const mongoose = require('mongoose');
+
 //@desc Get all hospitals
 //@route GET api/v1/hospitals
 //@access Public
